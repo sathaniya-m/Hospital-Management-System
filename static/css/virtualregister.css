@@ -1,0 +1,47 @@
+body{
+    background:#f4f7fc;
+}
+
+/* Card */
+
+.card{
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.15);
+    margin-top:30px;
+}
+
+/* Labels */
+
+label{
+    color:#000;
+    font-weight:600;
+}
+
+/* Inputs */
+
+.form-control{
+    border-radius:8px;
+    border:1px solid #ced4da;
+    height:45px;
+}
+
+.form-control:focus{
+    border-color:#1B365D;
+    box-shadow:0 0 5px rgba(27,54,93,.3);
+}
+
+/* Button */
+
+.btn-primary{
+    border:none;
+}
+
+.btn-primary:hover{
+    background:#0A192F;
+}
+
+/* Footer Card */
+
+.card.text-white{
+    border-radius:0;
+}
