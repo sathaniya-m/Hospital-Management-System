@@ -50,7 +50,7 @@ Hospital-System/
 │   ├── css/
 │   │   └── virtualregister.css
 │   └── images/               # UI and Doctor placeholder images
-│       ├── doc.jpg
+│       ├── b12.jpg
 │       ├── h14.jpg
 │       └── h20.jpg
 │
