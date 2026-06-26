@@ -1,19 +1,7 @@
 # 🏥 Hospital Management Database System (HMS)
 
 A comprehensive, full-stack web application designed to digitalize hospital operations. This system streamlines the appointment booking process for patients, provides doctors with an organized schedule, and offers an administrative dashboard to manage hospital database records in real-time.
-
-## 📑 Table of Contents
-- [About the Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
-- [Folder Structure](#-folder-structure)
-- [Prerequisites](#-prerequisites)
-- [Installation & Setup](#-installation--setup)
-- [Usage Guide](#-usage-guide)
-- [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
-
----
+--
 
 ## 📖 About the Project
 The Hospital Management Database System bridges the gap between patients and healthcare providers. It provides a secure platform where patients can view available doctors, book specific time slots, and manage their health concerns. Administrators and authorized medical staff can access backend database logs to perform CRUD (Create, Read, Update, Delete) operations on patient appointments.
